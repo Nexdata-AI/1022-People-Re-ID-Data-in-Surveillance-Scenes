@@ -3,7 +3,7 @@
 ## Description
 1,022 People - Re-ID Collection Data in Surveillance Scenes. The data scenario is outdoor scenes. The data includes males and females, the age distribution is juvenile, youth, middle-aged, the young people are the majorities. The data diversity includes different age groups, multiple scenes, different shooting angles, different human body orientations and postures, clothing for different seasons. For annotation, the rectangular bounding boxes and 15 attributes of human body were annotated. This data can be used for re-id and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1157?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1157?source=Github
 
 
 # Specifications
